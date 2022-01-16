@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewYearLayout</string>
+    <string name="stop_snow">Stop Snow!</string>
+    <string name="start_snow">Start Snow!</string>
+</resources>
